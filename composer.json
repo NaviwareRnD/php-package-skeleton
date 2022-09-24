@@ -1,11 +1,11 @@
 {
-    "name": "naviware/tidings-through-mnotify",
-    "description": "This package is used to send SMS messages from mNotify",
+    "name": "vendor/package-name",
+    "description": "This package is used to quickly spin up awesome packages",
     "type": "project",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Naviware\\TidingsThroughMnotify\\": "src/"
+            "Vendor\\PackageName\\": "src/"
         }
     },
     "minimum-stability": "dev",
