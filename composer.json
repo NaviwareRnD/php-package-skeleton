@@ -1,0 +1,13 @@
+{
+    "name": "naviware/tidings-through-mnotify",
+    "description": "This package is used to send SMS messages from mNotify",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Naviware\\TidingsThroughMnotify\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
