@@ -13,7 +13,7 @@ Please see [CONTRIBUTING](https://github.com/NaviwareRnD/php-package-skeleton/bl
 Please review [our security policy](https://github.com/NaviwareRnD/php-package-skeleton/security/policy) on how to report security vulnerabilities.
 
 # Credits
-:author_name
+**PUT YOUR NAME HERE**
 [All Contributors](https://github.com/NaviwareRnD/php-package-skeleton/graphs/contributors)
 
 # License
