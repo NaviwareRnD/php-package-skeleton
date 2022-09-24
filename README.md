@@ -1,7 +1,7 @@
 # PHP Package Template
 This repository can be used to scaffold a PHP package. It was actually created as a starting point for Laravel packages but can be used for general PHP packages as well
 
-When you actually use it, your package's description should go in here
+When you actually use it, your package's description should go in here.
 
 # Changelog
 Please see [CHANGELOG](https://github.com/NaviwareRnD/php-package-skeleton/blob/main/CHANGELOG.md) for more information on what has changed recently.
